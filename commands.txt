@@ -1,3 +1,7 @@
 git init - FOR INITIALIZING GIT REPOSITORY
 
 git status - LIST ALL UNTRACKED FILES
+
+git add -A - for adding all untracked files to staging area
+
+git commit -m "commit message" -staging area->localrepository
