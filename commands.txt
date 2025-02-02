@@ -5,3 +5,11 @@ git status - LIST ALL UNTRACKED FILES
 git add -A - for adding all untracked files to staging area
 
 git commit -m "commit message" -staging area->localrepository
+
+git config --global user.name "username"
+
+git config --global user.email "email"
+
+git remote add remote_name(origin) remote_path
+
+git push remote_name branch_name(master/main)
